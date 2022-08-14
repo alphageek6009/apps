@@ -13,9 +13,9 @@ Privacy Policy describes Our policies and procedures on the collection, use and 
 
 ## What information are eventually collected
 
-★ Calmly does not collect any information provided directly by the user, This application only provides mindful sounds.
+★ **Calmly** does not collect any information provided directly by the user, This application only provides mindful sounds.
 ★ Application does not keep track of device details like model, version, operating system, web browser information, unique device number, etc.
-★ Calmly app collects recently played sounds but that also getting stored in device cache.
+★ **Calmly** app collects recently played sounds but that also getting stored in device cache.
 
 
 ## Contact
